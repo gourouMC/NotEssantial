@@ -1,0 +1,6 @@
+name : NotEssantial
+author : gourouMC
+version : 0.1
+main : me.gourou.notessantial.Main
+commands:
+ test:
